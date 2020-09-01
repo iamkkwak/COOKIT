@@ -39,9 +39,8 @@
 
 ### 2. 관심있는 유저를 팔로우 할 수 있는 기능
 
-  <p><div align="center"><img align="center" src="notes/img/12_follow.PNG"></div></p>
-
-  레시피 뿐만 아니라 특정 유저를 팔로우하고 싶다면 팔로우할 수도 있습니다.
+  <p><div align="center"><img align="center" src="notes/img/12_follow.PNG"></div>
+  <div align="center">레시피 뿐만 아니라 특정 유저를 팔로우하고 싶다면 팔로우할 수도 있습니다.<div></p>
   <br>
 
 ### 3. 글쓰기 시 재료 입력 자동 완성
