@@ -16,8 +16,6 @@
 
 <br>
 
-### 👉 https://i3a201.p.ssafy.io
-
 ![main](notes/img/main.png)
 
 <br>
