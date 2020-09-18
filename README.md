@@ -16,6 +16,8 @@
 
 <br>
 
+### SSAFY 보안 계약서에 의거하여 코드 공개는 불가능합니다. 😥
+
 ![main](notes/img/main.png)
 
 <br>
