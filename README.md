@@ -1,12 +1,4 @@
-# SSAFY 3기 2반 공통 프로젝트
-
-- **트랙?** Track 1. 웹 기술 - 개발자 블로그
-- **기간?** 2020.07.08 ~ 2020.08.21 (총 7주)
-- **팀원?** 곽은정(팀장) 김지윤 김태형 이건수 차보람
-
-<br>
-
-## 🥗 요리 블로그 CookIt 🥗
+# 🥗 요리 블로그 CookIt 🥗
 
 - 프로젝트 기능 명세서 [ [마크다운 ver.](notes/specification.md) ] [ [엑셀 ver.](notes/specification.xlsx) ]
 - [To-do 리스트](notes/to-do.md)
